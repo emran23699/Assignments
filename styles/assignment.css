@@ -1,0 +1,276 @@
+/* first banner related content */
+.first-banner{
+    
+    background-image:url(Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 955px;
+    width: 2100px;
+    margin: 100px 0px 350px 350px;
+    
+    
+    }
+    .banner-title{
+    color: #FFF;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 400px;
+    margin: 0px 30px;
+    
+    }
+    
+    .bannerg-greeting{
+    width: 632px;
+    color: #FFF;
+    text-align: center;
+    font-size:  83px;
+    padding-bottom:0%;
+    margin: 0px 670px   ;
+    
+    }
+    
+           /* second-banner related content */
+    
+    
+     .second-banner{
+    text-align: center;
+    margin: bottom 10px;
+    
+     }
+     .banner-contents{
+        color: #F00;
+        font-size: 120px;
+        margin: top 0;
+        padding-bottom: 0%;
+    }
+    .banner-content{
+    color: red;
+    
+    }
+    
+    .text-black{
+        color: black;
+        font-size: 45px;
+        margin-bottom: 80px;
+    }
+    
+           /* banner-img related  content  */
+    
+    
+    .banner-img{
+        margin: 0px 0px 0px 980px;
+        background-position: center;
+    }
+    
+       /*   therd  banner related content */ 
+    
+    .therd-banner{
+    background-image: url(Vectorrr.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 955px;
+    width: 2100px;
+    margin: 100px 0px 350px 350px;
+    
+    
+    }
+    
+    .banner-2024{
+    color: antiquewhite;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    margin: 150px 0px 0px 250px;
+    
+    
+    }
+    .banner-2024-h1{
+        letter-spacing:7.04px;
+        padding: 130px 0px 0px 5px;
+    }
+    
+    .banner-item{
+        padding: 0px 200px 0px 1550px;
+    }
+    
+    
+    
+    
+    /* forth-banner related content */
+    
+    
+    .forth-banner{
+        padding: 250px 50px;
+        background-color:#fde4e4;
+        text-align: center;
+        margin: 100px 0px 650px 350px;
+        height:150px;
+        width: 2000px;
+         }
+    .tittle-black{
+        color: black
+    }
+    .titttle-red{
+        color: #F00
+    }
+    
+    
+     /* five-best-offer banner related content */ 
+    
+    .best-offers {
+        margin: 120px 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      .best-content1 {
+        margin-left: 70px;
+      }
+      .best-content1-subheading {
+        color: #f00;
+        font-family: Inter;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+      }
+      .best-content1-heading {
+        color: #070211;
+        font-family: Merriweather;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: normal;
+        text-transform: capitalize;
+        margin-bottom: 22px;
+      }
+      
+      .best-offers-description {
+        color: rgba(7, 2, 17, 0.6);
+        font-family: Inter;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        margin-right:0px;
+        line-height: 32px;
+      }
+      .best-content2 {
+        margin-right:auto;
+        margin-left: auto;
+      }
+      
+      .best-content2 img {
+        border: 30px solid #fff;
+        outline: 25px solid #f00;
+        border-radius: 50%;
+        
+      }
+      .best-content3-heading {
+        color: #f00;
+        font-family: Inter;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 700;
+        
+      }
+      
+    
+     /*  Holidays related content */ 
+    
+     .Holidays{
+    text-align: center;
+    margin: 20px ;
+    
+     }
+    
+     
+     
+     .holi{
+    color: #F00
+    
+     }
+     
+    
+       /*related content */ 
+     .red-coolr{
+    
+        color: #F00; }
+        
+     .margin{
+        margin: 0px 0px 0px 350px;
+     }
+    
+    
+    
+     /* Rectangle  banner related content */ 
+    .Rectangle-1{
+        display: flex;
+     margin: 0px 0px 0px 700px;
+     width: 1700px;
+     height: max-content;
+    }
+    .Rectangle-2{
+        display: flex;
+        margin: 0px 0px 0px 700px;
+        
+       }
+    .Rectangle{
+    width: 500px;
+    height: 500px;
+    
+    }
+    .image-ww{
+    width: 500px;
+    }
+    
+    
+     /* Gmail banner related content */ 
+      .Gmail{
+        background-color: #fde4e4;
+        margin: 0px 0px 200px 700px ;
+        text-align: center;
+        margin-right: 700px;
+    
+      }
+    
+    
+    /* footer related content */ 
+    
+    .social-links{
+        align-items: center;
+        bottom: 600px;
+    }
+    .footer{
+        display: block;
+        align-items: center;
+        background: #0d0c0e;
+        padding: 150px;
+         
+    
+    
+        }
+    
+    .footer-colum{
+        color: #fff;
+    display: flex;
+    
+    
+    
+    }
+    
+    .fotter-colum-7{
+        color: #FFF;
+        padding-left: 1800px;
+    }
+    
+    .footer-colum-3{
+    color: #FFF;
+    display: flex;
+    padding-top: 200px;
+    
+    }
+    .section-title-4{
+        color: #FFF;
+        display: flex;
+     padding-left: 2450px;
+     font-size: medium;
+    }
